@@ -1,7 +1,7 @@
 import pyxel
 import math
 import numpy as np
-from random import randint
+from   random import randint
 import random
 
 class Maze:
